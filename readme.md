@@ -51,7 +51,6 @@
 ### Software & Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Github](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
@@ -66,7 +65,6 @@
 
 
 
-### Currently Learning About...
-  * ![Qiskit](https://img.shields.io/badge/-Qiskit-000?&logo=qiskit) Quantum computing.
-
-  [Read the documentation here.](https://qiskit.org/documentation/)
+### Currently Learning About... 
+  ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
+  Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
