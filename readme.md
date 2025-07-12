@@ -12,6 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=0097ff)
 
+___
 
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=nodedotjs)
@@ -22,11 +23,15 @@
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 
+___
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
+___
 
 ### Electronics & Robotics
 ![Open_Source_Hardware](https://img.shields.io/badge/-Open_Source_Hardware-000?&logo=opensourcehardware)
@@ -34,6 +39,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino&logoColor=18e699)
 ![ROS](https://img.shields.io/badge/-ROS-000?&logo=ros)
 
+___
 
 ### Artificial Intelligence & Data Science
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=3d6afc)
@@ -47,6 +53,7 @@
 ![OLlama](https://img.shields.io/badge/-OLlama-000?&logo=ollama&logoColor=d20a2e)
 ![OpenAI_Gym](https://img.shields.io/badge/-OpenAI_Gym-000?&logo=openaigym)
 
+___
 
 ### Software & Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
@@ -61,10 +68,10 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 
-
-
+___
 
 
 ### Currently Learning About... 
-  ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
-  Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
+<br>
+Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
