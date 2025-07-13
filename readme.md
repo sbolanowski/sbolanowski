@@ -2,6 +2,8 @@
 
 <!--![](https://img.shields.io/badge/--000?&logo=)-->
 
+<img align="right" src="media/side.png"/>
+
 ### Languages
 ![Assembly Script](https://img.shields.io/badge/-Assembly_Script-000?&logo=AssemblyScript)
 ![Bash Script](https://img.shields.io/badge/-Bash_Script-000?&logo=gnubash&logoColor=ffffff)
