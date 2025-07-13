@@ -9,7 +9,7 @@
 ### Languages
 
 <!-- Sticker -->
-<img src="media/side.png" align="right" alt="Side image" style="float: right; width:25%; height: auto;" />
+<img src="media/side.png" align="right" alt="Side image" style="float: right; width:33%; height: auto;" />
 
 
 ![Assembly Script](https://img.shields.io/badge/-Assembly-000?&logo=AssemblyScript)
