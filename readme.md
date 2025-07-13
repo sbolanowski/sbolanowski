@@ -94,12 +94,14 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
     <!--<img src="media/projects.jpg" alt="Projects" width="50%" />-->
 </p>
 
+---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=launch-app&theme=neon)](https://github.com/sbolanowski/launch-app)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbolanowski&show_icons=true&locale=en&layout=compact&theme=neon" alt="ovi" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=sbolanowski&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=laubch-app&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 -->
