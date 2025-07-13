@@ -2,11 +2,11 @@
 
 <!--![](https://img.shields.io/badge/--000?&logo=)-->
 
-<p align="right">
-  <img src="media/side.png" alt="Side image" style="float: right; width:20%; height: auto;" />
-</p>
-
 ### Languages
+
+  <img src="media/side.png" align="right" alt="Side image" style="float: right; width:20%; height: auto;" />
+
+
 ![Assembly Script](https://img.shields.io/badge/-Assembly_Script-000?&logo=AssemblyScript)
 ![Bash Script](https://img.shields.io/badge/-Bash_Script-000?&logo=gnubash&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=3d6afc)
