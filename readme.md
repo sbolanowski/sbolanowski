@@ -12,8 +12,8 @@
 <img src="media/side.png" align="right" alt="Side image" style="float: right; width:25%; height: auto;" />
 
 
-![Assembly Script](https://img.shields.io/badge/-Assembly_Script-000?&logo=AssemblyScript)
-![Bash Script](https://img.shields.io/badge/-Bash_Script-000?&logo=gnubash&logoColor=ffffff)
+![Assembly Script](https://img.shields.io/badge/-Assembly-000?&logo=AssemblyScript)
+![Bash Script](https://img.shields.io/badge/-Bash-000?&logo=gnubash&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=3d6afc)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=3d6afc)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=coffeescript&logoColor=FFDE21)
