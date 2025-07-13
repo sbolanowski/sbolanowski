@@ -1,11 +1,16 @@
 
-![Banner](media/banner.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="media/banner.gif" alt="Banner" width="100%" />
+</p>
 
+<!-- Tech Stack -->
 <!--![](https://img.shields.io/badge/--000?&logo=)-->
 
 ### Languages
 
-  <img src="media/side.png" align="right" alt="Side image" style="float: right; width:20%; height: auto;" />
+<!-- Sticker -->
+<img src="media/side.png" align="right" alt="Side image" style="float: right; width:20%; height: auto;" />
 
 
 ![Assembly Script](https://img.shields.io/badge/-Assembly_Script-000?&logo=AssemblyScript)
