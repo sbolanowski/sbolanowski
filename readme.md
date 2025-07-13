@@ -2,7 +2,9 @@
 
 <!--![](https://img.shields.io/badge/--000?&logo=)-->
 
-<img align="right" src="media/side.png"/>
+<p align="right">
+  <img src="media/side.png" alt="Side image" style="float: right;" />
+</p>
 
 ### Languages
 ![Assembly Script](https://img.shields.io/badge/-Assembly_Script-000?&logo=AssemblyScript)
