@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="media/banner.gif" alt="Banner" width="100%" />
