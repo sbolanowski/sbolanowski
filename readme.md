@@ -84,3 +84,12 @@ ___
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
 <br>
 Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
+
+
+---
+
+
+<!-- Projects -->
+<p align="center">
+  <img src="media/projects.jpg" alt="Projects" width="50%" />
+</p>
