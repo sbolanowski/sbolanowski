@@ -3,7 +3,7 @@
 <!--![](https://img.shields.io/badge/--000?&logo=)-->
 
 <p align="right">
-  <img src="media/side.png" alt="Side image" style="float: right;" />
+  <img src="media/side.png" alt="Side image" style="float: right; width:50%" />
 </p>
 
 ### Languages
