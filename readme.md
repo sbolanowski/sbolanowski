@@ -96,6 +96,9 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
 
 ---
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=h_wave_function&theme=neon)](https://github.com/sbolanowski/h_wave_function)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=launch-app&theme=neon)](https://github.com/sbolanowski/launch-app)
 
 <!--
