@@ -96,6 +96,9 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
 
 ---
 
+<!--
+  PROJECTS SECTION
+-->
 
 <div align="center">
     <a href="https://github.com/sbolanowski/h_wave_function">
