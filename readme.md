@@ -81,18 +81,17 @@ ___
 
 
 ### Currently Learning About... 
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
-<br>
-Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
 
-
-<!-- Projects -->
-<p align="center">
-    <!--<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhhM3UzNjg5djJidWU3YWY4M2ZkenE2bzNlbTk0c2g2NnA1a2RiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" alt="Gif 1" width="100px" />-->
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVqcGxzdXlnYjF2eTYwMTRna2l2eTM0cWNkampmbnF2eTY4ZTR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Gif 2" width="100px" />
-    <!--<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd4ajZsbnNobHcwcDY3bjFmbXJnbTNqd25vejkyeTNmNTl2bHZ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ge8V1m6LFNyBg9sIHV/giphy.gif" alt="Gif 3" width="50px" />-->
-    <!--<img src="media/projects.jpg" alt="Projects" width="50%" />-->
+<p align="left" style="display: inline-block; vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit" />
+  <br>
+  Quantum computing. <a href="https://qiskit.org/documentation/">Read the documentation here.</a>
 </p>
+
+<p style="float: right; vertical-align: middle;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVqcGxzdXlnYjF2eTYwMTRna2l2eTM0cWNkampmbnF2eTY4ZTR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Gif 2" width="100px" />
+</p>
+
 
 ---
 
