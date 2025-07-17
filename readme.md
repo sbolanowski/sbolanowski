@@ -114,6 +114,9 @@ ___
     <a href="https://github.com/sbolanowski/m2r_translator">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=m2r_translator&theme=midnight-purple" alt="m2r_translator repo">
     </a>
+    <a href="https://github.com/sbolanowski/bubbleduck_z80">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=bubbleduck_z80&theme=midnight-purple" alt="bubbleduck_z80 repo">
+    </a>
 </div>
 
 
