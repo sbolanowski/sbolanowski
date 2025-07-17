@@ -97,11 +97,24 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
 ---
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=h_wave_function&theme=neon)](https://github.com/sbolanowski/h_wave_function)
+<div align="center">
+    <a href="https://github.com/sbolanowski/h_wave_function">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=h_wave_function&theme=github_dark" alt="h_wave_function Repo">
+    </a>
+    <a href="https://github.com/sbolanowski/double_slit_exp">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=double_slit_exp&theme=github_dark" alt="double_slit_exp repo">
+    </a>
+    <a href="https://github.com/sbolanowski/3_body_problem">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=3_body_problem&theme=github_dark" alt="3_body_problem repo">
+    </a>
+    <a href="https://github.com/sbolanowski/launch-app">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=launch-app&theme=github_dark" alt="launch-app repo">
+    </a>
+    <a href="https://github.com/sbolanowski/m2r_translator">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=m2r_translator&theme=github_dark" alt="m2r_translator repo">
+    </a>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=3_body_problem&theme=neon)](https://github.com/sbolanowski/3_body_problem)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbolanowski&repo=launch-app&theme=neon)](https://github.com/sbolanowski/launch-app)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbolanowski&show_icons=true&locale=en&layout=compact&theme=neon" alt="ovi" />
