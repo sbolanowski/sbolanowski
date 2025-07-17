@@ -88,7 +88,7 @@ ___
   Quantum computing. <a href="https://qiskit.org/documentation/">Read the documentation here.</a>
 </p>
 
-<p style="float: right; vertical-align: middle;">
+<p align="right" style="display: inline-block; vertical-align: middle;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVqcGxzdXlnYjF2eTYwMTRna2l2eTM0cWNkampmbnF2eTY4ZTR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Gif 2" width="100px" />
 </p>
 
