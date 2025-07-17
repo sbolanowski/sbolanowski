@@ -82,15 +82,14 @@ ___
 
 ### Currently Learning About... 
 
-<p align="left" style="display: inline-block; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit" />
-  <br>
-  Quantum computing. <a href="https://qiskit.org/documentation/">Read the documentation here.</a>
-</p>
-
-<p align="right" style="display: inline-block; vertical-align: middle;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="margin: 0;">
+    <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit" />
+    <br>
+    Quantum computing. <a href="https://qiskit.org/documentation/">Read the documentation here.</a>
+  </p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVqcGxzdXlnYjF2eTYwMTRna2l2eTM0cWNkampmbnF2eTY4ZTR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Gif 2" width="100px" />
-</p>
+</div>
 
 
 ---
