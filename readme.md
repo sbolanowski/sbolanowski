@@ -93,6 +93,15 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
 -->
 
 <div align="center">
+    <a href="https://github.com/sbolanowski/raspybot">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=raspybot&theme=midnight-purple" alt="raspybot repo">
+    </a>
+    <a href="https://github.com/sbolanowski/m2r_translator">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=m2r_translator&theme=midnight-purple" alt="m2r_translator repo">
+    </a>
+    <a href="https://github.com/sbolanowski/bubbleduck_z80">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=bubbleduck_z80&theme=midnight-purple" alt="bubbleduck_z80 repo">
+    </a>
     <a href="https://github.com/sbolanowski/h_wave_function">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=h_wave_function&theme=midnight-purple" alt="h_wave_function Repo">
     </a>
@@ -105,11 +114,8 @@ Quantum computing. [Read the documentation here.](https://qiskit.org/documentati
     <a href="https://github.com/sbolanowski/launch-app">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=launch-app&theme=midnight-purple" alt="launch-app repo">
     </a>
-    <a href="https://github.com/sbolanowski/m2r_translator">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=m2r_translator&theme=midnight-purple" alt="m2r_translator repo">
-    </a>
-    <a href="https://github.com/sbolanowski/bubbleduck_z80">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=bubbleduck_z80&theme=midnight-purple" alt="bubbleduck_z80 repo">
+    <a href="https://github.com/sbolanowski/south_park_slur">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=sbolanowski&repo=south_park_slur&theme=midnight-purple" alt="south_park_slur repo">
     </a>
 </div>
 
