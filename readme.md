@@ -82,9 +82,8 @@ ___
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVqcGxzdXlnYjF2eTYwMTRna2l2eTM0cWNkampmbnF2eTY4ZTR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" align="right" alt="Side gif" style="float: right; width:100px;" />
 
 ### Currently Learning About... 
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) 
-<br>
-Quantum computing. [Read the documentation here.](https://qiskit.org/documentation/)
+Quantum computing with Qiskit. [Read the documentation here.](https://qiskit.org/documentation/)
+Spacecraft dynamics and control. [Join the course here.](https://www.coursera.org/specializations/spacecraft-dynamics-control)
 
 ---
 
