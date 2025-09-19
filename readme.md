@@ -83,6 +83,7 @@ ___
 
 ### Currently Learning About... 
 Quantum computing with Qiskit. [Read the documentation here.](https://qiskit.org/documentation/)
+</br>
 Spacecraft dynamics and control. [Join the course here.](https://www.coursera.org/specializations/spacecraft-dynamics-control)
 
 ---
